@@ -40,7 +40,7 @@ public class Save_ClassInfo {
    public CompilationUnit compilationUnit;
 
    public Save_ClassInfo() {
-      String fileName = "./sutda";
+      String fileName = "../sutda";
       File ffile = new File(fileName);
       File[] fileArray = ffile.listFiles();
 
