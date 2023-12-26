@@ -42,7 +42,7 @@ public class Draw_Diagram {
    public CompilationUnit compilationUnit;
 
    public Draw_Diagram() {
-      String fileName = "./sutda";
+      String fileName = "../sutda";
       File ffile = new File(fileName);
       File[] fileArray = ffile.listFiles();
 
