@@ -43,7 +43,7 @@ public class AntiInfo {
    public CompilationUnit compilationUnit;
 
    public AntiInfo() {
-      String fileName = "./sutda";
+      String fileName = "../sutda";
       File ffile = new File(fileName);
       File[] fileArray = ffile.listFiles();
 
